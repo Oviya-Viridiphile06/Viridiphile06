@@ -10,9 +10,11 @@
 
 ## 🌐 About Me
 
-Aspiring **AI & Data Science Engineer** passionate about **Machine Learning, Generative AI, Data Analytics, NLP, and Cloud Technologies**.
 
-I enjoy turning ideas into practical, data-driven solutions using **Python and modern AI technologies**.
+I'm an aspiring AI and Data Science Engineer with hands-on experience in **Machine Learning**, **Generative AI**, **NLP**, **Data Analytics**, and **Cloud Technologies**.
+
+I enjoy transforming ideas into practical applications using Python and modern AI technologies. My projects include an AI-powered Applicant Tracking System with fraud detection and LLM-based decision making, a Power BI customer churn analytics dashboard, and a rainwater harvesting assessment system.
+
 
 🎯 **Career Focus:** Data Analyst → Data Scientist → Data Engineer
 
@@ -38,10 +40,13 @@ I enjoy turning ideas into practical, data-driven solutions using **Python and m
 
 ## 🛠️ Tech Toolbox
 
-**Languages** Python • 'Java' • `SQL` 
-| **AI & Data** | Machine Learning • Generative AI • NLP • RAG • Data Analysis |
-| **Cloud** | Google Cloud Platform • Vertex AI • Gemini |
-| **Tools** | Power BI • Excel • Canva • Git • GitHub • VS Code |
+**Languages :** `Python` • `Java` • `SQL` 
+
+**AI & Data :** `Machine Learning` • `Generative AI` • `NLP` • `RAG` • `Data Analysis`
+
+**Cloud     :** `Google Cloud Platform` • `Vertex AI` • `Gemini`
+
+**Tools     :** `Power BI` • `Excel` • `Canva` • `Git` • `GitHub` • `VS Code`
 
 
 ## 🚀 Featured Projects
