@@ -7,17 +7,17 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/oviya-maheswari-n/)  
 👨‍💻 [GitHub](https://github.com/Oviya-Viridiphile06/)
 
+---
 
 ## 🌐 About Me
-
 
 I'm an aspiring AI and Data Science Engineer with hands-on experience in **Machine Learning**, **Generative AI**, **NLP**, **Data Analytics**, and **Cloud Technologies**.
 
 I enjoy transforming ideas into practical applications using Python and modern AI technologies. My projects include an AI-powered Applicant Tracking System with fraud detection and LLM-based decision making, a Power BI customer churn analytics dashboard, and a rainwater harvesting assessment system.
 
-
 🎯 **Career Focus:** Data Analyst → Data Scientist → Data Engineer
 
+---
 
 ## 💡 What I Build
 
@@ -28,35 +28,39 @@ I enjoy transforming ideas into practical applications using Python and modern A
 | ☁️ | **Cloud AI Solutions** — Google Cloud, Vertex AI and Gemini |
 | 🌱 | **Real-World Solutions** — Technology-driven practical applications |
 
+---
 
 ## 🎓 Education
 
-**B.Tech in Artificial Intelligence and Data Science**
-
-**V.S.B College of Engineering Technical Campus, Coimbatore**
-
+**B.Tech in Artificial Intelligence and Data Science**  
+**V.S.B College of Engineering Technical Campus, Coimbatore**  
 **CGPA:** 8.41 / 10 &nbsp; | &nbsp; **Expected:** 2027
 
+---
 
 ## 🛠️ Tech Toolbox
 
-**Languages :** `Python` • `Java` • `SQL` 
+**Languages:**  
+![Python](https://shields.io) ![Java](https://shields.io) ![SQL](https://shields.io)
 
-**AI & Data :** `Machine Learning` • `Generative AI` • `NLP` • `RAG` • `Data Analysis`
+**AI & Data:**  
+![Machine Learning](https://shields.io) ![Generative AI](https://shields.io) ![NLP](https://shields.io)
 
-**Cloud     :** `Google Cloud Platform` • `Vertex AI` • `Gemini`
+**Cloud:**  
+![Google Cloud Platform](https://shields.io) ![Vertex AI](https://shields.io) ![Gemini](https://shields.io)
 
-**Tools     :** `Power BI` • `Excel` • `Canva` • `Git` • `GitHub` • `VS Code`
+**Tools:**  
+![Power BI](https://shields.io) ![Excel](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
 
+---
 
 ## 🚀 Featured Projects
 
-🤖 [**SmartHireAI**](https://github.com/Oviya-Viridiphile06/SmartHireAI-Semantic-Behavioral-ATS-with-Fraud-Detection-and-LLM-Decision) — AI-powered ATS with semantic matching, fraud detection & LLM decision making
+* 🤖 [**SmartHireAI**](https://github.com/Oviya-Viridiphile06/SmartHireAI-Semantic-Behavioral-ATS-with-Fraud-Detection-and-LLM-Decision) — AI-powered ATS with semantic matching, fraud detection & LLM decision making
+* 📊 [**Bank Customer Churn Analysis**](https://github.com/Oviya-Viridiphile06/Bank-Customer-Churn-Analysis-PowerBI) — Power BI dashboard for customer churn analysis
+* 🌧️ [**Rainwater Harvesting Assessment**](https://github.com/Oviya-Viridiphile06/Rainwater_Harvesting_Assessment_System) — Smart rooftop rainwater harvesting assessment application
 
-📊 [**Bank Customer Churn Analysis**](https://github.com/Oviya-Viridiphile06/Bank-Customer-Churn-Analysis-PowerBI) — Power BI dashboard for customer churn analysis
-
-🌧️ [**Rainwater Harvesting Assessment**](https://github.com/Oviya-Viridiphile06/Rainwater_Harvesting_Assessment_System) — Smart rooftop rainwater harvesting assessment application
-
+---
 
 ## 💼 Experience
 
@@ -66,35 +70,40 @@ I enjoy transforming ideas into practical applications using Python and modern A
 **💻 Full Stack Development — Techvolt Software Pvt. Ltd.**  
 *Feb 2024 – Mar 2024*
 
+---
 
 ## 🏆 Achievements
 
-- 🥉 **3rd Place — EPOCH'26** for an AI-driven multi-agent system
-- 💻 **TCS CodeVita Season 13** — Global Rank **9549 / 146,922**
-- 📚 **Publication — IGI Global**, *Natural Disaster and Environment Restoration*
-- 🎨 **Event Coordinator — UI/UX Design, Vyuga'26**
+* 🥉 **3rd Place — EPOCH'26** for an AI-driven multi-agent system
+* 💻 **TCS CodeVita Season 13** — Global Rank **9549 / 146,922**
+* 📚 **Publication — IGI Global**, *Natural Disaster and Environment Restoration*
+* 🎨 **Event Coordinator — UI/UX Design, Vyuga'26**
 
+---
 
 ## 📜 Certifications
 
-- **NPTEL** — Artificial Intelligence: Search Methods for Problem Solving
-- **NPTEL** — Responsible & Safe AI Systems
-- **Google Cloud** — Generative AI
-- **Scaler Topics** — Power BI
-- **Infosys Springboard** — Natural Language Processing
-- **Thiran 2025** — Designing Intellibot
+* **NPTEL** — Artificial Intelligence: Search Methods for Problem Solving
+* **NPTEL** — Responsible & Safe AI Systems
+* **Google Cloud** — Generative AI
+* **Scaler Topics** — Power BI
+* **Infosys Springboard** — Natural Language Processing
+* **Thiran 2025** — Designing Intellibot
 
+---
 
 ## 🌱 Currently Exploring
 
-**Data Engineering** • **Advanced Machine Learning** • **Generative AI** • **Cloud AI** • **Financial Data Analysis**
+`Data Engineering` • `Advanced Machine Learning` • `Generative AI` • `Cloud AI` • `Financial Data Analysis`
 
+---
 
 ## 🔗 Let's Connect, Learn & Build!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oviya-maheswari-n/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oviya-Viridiphile06)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oviyamaheswarin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oviya-Viridiphile06)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oviyamaheswarin@gmail.com)
 
+<br>
 
 ⭐ **Thanks for visiting my profile!**
