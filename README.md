@@ -38,19 +38,17 @@ I enjoy transforming ideas into practical applications using Python and modern A
 
 ---
 
+
 ## 🛠️ Tech Toolbox
 
-**Languages:**  
-![Python](https://shields.io) ![Java](https://shields.io) ![SQL](https://shields.io)
+**Languages :** `Python` • `Java` • `SQL` 
 
-**AI & Data:**  
-![Machine Learning](https://shields.io) ![Generative AI](https://shields.io) ![NLP](https://shields.io)
+**AI & Data :** `Machine Learning` • `Generative AI` • `NLP` • `RAG` • `Data Analysis`
 
-**Cloud:**  
-![Google Cloud Platform](https://shields.io) ![Vertex AI](https://shields.io) ![Gemini](https://shields.io)
+**Cloud :** `Google Cloud Platform` • `Vertex AI` • `Gemini`
 
-**Tools:**  
-![Power BI](https://shields.io) ![Excel](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
+**Tools :** `Power BI` • `Excel` • `Canva` • `Git` • `GitHub` • `VS Code`
+
 
 ---
 
